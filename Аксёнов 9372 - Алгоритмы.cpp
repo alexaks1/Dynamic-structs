@@ -4,7 +4,7 @@
 #include <string>
 
 using namespace std;
-
+//жопа
 template <typename T>
 class ArrayList
 {
